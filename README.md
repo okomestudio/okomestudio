@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my GitHub page!
+
+Please go to my professional [web site](https://okomestudio.net) for other information.
+
+I'd eventually do a better presentation of my public work hosted here.
 
 <!--
 **okomestudio/okomestudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
